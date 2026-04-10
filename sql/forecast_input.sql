@@ -10,13 +10,13 @@
 
 SELECT
   ds,
-  CASE WHEN viplevel >= 12 THEN 'whale' WHEN viplevel >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
+  CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
   SUM(imoney) AS total_gold_spent
 FROM hive.kto_658.moneychange_reduce
 WHERE ds          BETWEEN :start_date AND :end_date
   AND moneytype   = 'Gold'
-  AND big_type_logway NOT IN (21, 37, 38, 39, 40, 41, 42, 43)
+  AND big_type_logway NOT IN ('21','37','38','39','40','41','42','43')
 GROUP BY
   ds,
-  CASE WHEN viplevel >= 12 THEN 'whale' WHEN viplevel >= 7 THEN 'dolphin' ELSE 'minnow' END
+  CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END
 ORDER BY ds, cohort

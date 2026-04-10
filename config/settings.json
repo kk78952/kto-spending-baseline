@@ -1,12 +1,36 @@
 {
   "cohorts": {
-    "whale":   { "vip_min": 12, "vip_max": 99, "color": "#F0997B", "label": "Whale" },
-    "dolphin": { "vip_min": 7,  "vip_max": 11, "color": "#5DCAA5", "label": "Dolphin" },
-    "minnow":  { "vip_min": 0,  "vip_max": 6,  "color": "#85B7EB", "label": "Minnow" }
+    "whale": {
+      "vip_min": 12,
+      "vip_max": 99,
+      "color": "#F0997B",
+      "label": "Whale"
+    },
+    "dolphin": {
+      "vip_min": 7,
+      "vip_max": 11,
+      "color": "#5DCAA5",
+      "label": "Dolphin"
+    },
+    "minnow": {
+      "vip_min": 0,
+      "vip_max": 6,
+      "color": "#85B7EB",
+      "label": "Minnow"
+    }
   },
   "price_divisor": 100,
   "moneytype_filter": "Gold",
-  "transfer_logways_exclude": [21, 37, 38, 39, 40, 41, 42, 43],
+  "transfer_logways_exclude": [
+    "21",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
   "recharge_logway_bigtype": 89,
   "ets": {
     "seasonal_period": 7,
@@ -21,7 +45,7 @@
     "recalibration_consecutive_days": 7
   },
   "alerts": {
-    "velocity_whale_threshold": 0.40,
+    "velocity_whale_threshold": 0.4,
     "consecutive_days_trigger": 3,
     "deviation_warning_pct": 15,
     "deviation_critical_pct": 25

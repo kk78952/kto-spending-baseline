@@ -12,7 +12,7 @@ WITH cohort_def AS (
   SELECT
     viplevel,
     CASE
-      WHEN viplevel >= 12 THEN 'whale'
+      WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale'
       WHEN viplevel >= 7  THEN 'dolphin'
       ELSE                     'minnow'
     END AS cohort
@@ -36,7 +36,7 @@ spend_raw AS (
   FROM hive.kto_658.moneychange_reduce r
   WHERE r.ds          = :target_date
     AND r.moneytype   = 'Gold'
-    AND r.big_type_logway NOT IN (21, 37, 38, 39, 40, 41, 42, 43)
+    AND r.big_type_logway NOT IN ('21','37','38','39','40','41','42','43')
 ),
 
 spend_agg AS (
@@ -58,17 +58,17 @@ past_7d_spenders AS (
   WHERE ds          >= DATE_FORMAT(DATE_ADD('day', -7, DATE(CAST(:target_date AS DATE))), '%Y-%m-%d')
     AND ds          <  :target_date
     AND moneytype   = 'Gold'
-    AND big_type_logway NOT IN (21, 37, 38, 39, 40, 41, 42, 43)
+    AND big_type_logway NOT IN ('21','37','38','39','40','41','42','43')
 ),
 
 new_spenders AS (
   SELECT
-    CASE WHEN viplevel >= 12 THEN 'whale' WHEN viplevel >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
+    CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
     COUNT(DISTINCT roleid) AS new_spender_count
   FROM hive.kto_658.moneychange_reduce
   WHERE ds          = :target_date
     AND moneytype   = 'Gold'
-    AND big_type_logway NOT IN (21, 37, 38, 39, 40, 41, 42, 43)
+    AND big_type_logway NOT IN ('21','37','38','39','40','41','42','43')
     AND roleid NOT IN (SELECT roleid FROM past_7d_spenders)
   GROUP BY 1
 ),
@@ -76,7 +76,7 @@ new_spenders AS (
 -- ── Gold inflow (moneychange_add) ─────────────────────────────────────────────
 inflow_agg AS (
   SELECT
-    CASE WHEN viplevel >= 12 THEN 'whale' WHEN viplevel >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
+    CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
     SUM(imoney)                                            AS total_gold_received,
     SUM(CASE WHEN logway_name = 'LogWay_Recharge' THEN imoney ELSE 0 END) AS gold_from_recharge
   FROM hive.kto_658.moneychange_add
@@ -88,7 +88,7 @@ inflow_agg AS (
 -- ── VND recharged (recharge_deliver) ─────────────────────────────────────────
 recharge_vnd AS (
   SELECT
-    CASE WHEN viplevel >= 12 THEN 'whale' WHEN viplevel >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
+    CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
     SUM(CAST(price AS DOUBLE) / 100.0) AS total_vnd_recharged
   FROM hive.kto_658.recharge_deliver
   WHERE ds = :target_date

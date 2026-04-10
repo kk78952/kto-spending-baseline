@@ -161,8 +161,8 @@ def main():
     append_csv(METRICS_CSV,  df_metrics,  METRICS_COLS)
     append_csv(VELOCITY_CSV, df_velocity, VELOCITY_COLS)
 
-    print(f"[fetch_daily] wrote → {METRICS_CSV}")
-    print(f"[fetch_daily] wrote → {VELOCITY_CSV}")
+    print(f"[fetch_daily] wrote {METRICS_CSV}")
+    print(f"[fetch_daily] wrote {VELOCITY_CSV}")
     print("[fetch_daily] done.")
 
 if __name__ == "__main__":

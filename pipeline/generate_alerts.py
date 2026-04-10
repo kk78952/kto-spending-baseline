@@ -218,9 +218,9 @@ def main():
     with open(ALERTS_JSON, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"[generate_alerts] {len(alerts)} alerts → {ALERTS_JSON}")
+    print(f"[generate_alerts] {len(alerts)} alerts written to {ALERTS_JSON}")
     for a in alerts:
-        icon = {"warning": "⚠", "info": "ℹ", "success": "✓"}.get(a["type"], "·")
+        icon = {"warning": "!", "info": "i", "success": "ok"}.get(a["type"], "-")
         print(f"  {icon} [{a.get('cohort','all')}] {a['title']}")
 
 

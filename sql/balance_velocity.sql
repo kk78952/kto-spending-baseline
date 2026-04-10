@@ -14,20 +14,20 @@
 WITH spend_bod AS (
   -- First transaction per role gives the beginning-of-day balance (before field)
   SELECT
-    CASE WHEN viplevel >= 12 THEN 'whale' WHEN viplevel >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
+    CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
     roleid,
     MIN_BY(before, time)  AS bod_balance,
     SUM(imoney)           AS role_gold_spent
   FROM hive.kto_658.moneychange_reduce
   WHERE ds          = :target_date
     AND moneytype   = 'Gold'
-    AND big_type_logway NOT IN (21, 37, 38, 39, 40, 41, 42, 43)
+    AND big_type_logway NOT IN ('21','37','38','39','40','41','42','43')
   GROUP BY 1, roleid
 ),
 
 inflow_per_role AS (
   SELECT
-    CASE WHEN viplevel >= 12 THEN 'whale' WHEN viplevel >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
+    CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
     roleid,
     SUM(imoney) AS gold_received
   FROM hive.kto_658.moneychange_add

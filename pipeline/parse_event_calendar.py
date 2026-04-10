@@ -149,7 +149,7 @@ def main():
     with open(EVENTS_OUT, "w", encoding="utf-8") as f:
         json.dump(events, f, ensure_ascii=False, indent=2)
 
-    print(f"[parse_event_calendar] wrote → {EVENTS_OUT}")
+    print(f"[parse_event_calendar] wrote {EVENTS_OUT}")
 
 
 if __name__ == "__main__":

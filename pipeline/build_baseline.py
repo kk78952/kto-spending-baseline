@@ -150,8 +150,7 @@ def main():
     if not METRICS_CSV.exists():
         sys.exit(f"[build_baseline] {METRICS_CSV} not found. Run fetch_daily.py first.")
 
-    df = pd.read_csv(METRICS_CSV, parse_dates=["ds"], dtype={"ds": str})
-    df["ds"] = pd.to_datetime(df["ds"]).dt.date.astype(str)
+    df = pd.read_csv(METRICS_CSV, dtype=str)
 
     events = load_events()
     exclude_dates = build_event_set(
@@ -239,7 +238,7 @@ def main():
             "generated_at": date.today().isoformat(),
             "cohorts": forecast_output,
         }, f, indent=2)
-    print(f"[build_baseline] wrote → {FORECAST_JSON}")
+    print(f"[build_baseline] wrote {FORECAST_JSON}")
     print("[build_baseline] done.")
 
 

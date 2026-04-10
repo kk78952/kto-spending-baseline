@@ -19,7 +19,7 @@
 WITH spending AS (
   SELECT
     ds,
-    CASE WHEN viplevel >= 12 THEN 'whale' WHEN viplevel >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
+    CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
     CASE big_type_logway
       -- Mua ở Cửa Hàng
       WHEN 7   THEN 'Mua ở Cửa Hàng'
@@ -58,14 +58,14 @@ WITH spending AS (
       WHEN 80  THEN 'Nạp'
       WHEN 81  THEN 'Nạp'
       -- Đến ngay group (EXCLUDED — player transfers)
-      WHEN 21  THEN '__TRANSFER__'
-      WHEN 37  THEN '__TRANSFER__'
-      WHEN 38  THEN '__TRANSFER__'
-      WHEN 39  THEN '__TRANSFER__'
-      WHEN 40  THEN '__TRANSFER__'
-      WHEN 41  THEN '__TRANSFER__'
-      WHEN 42  THEN '__TRANSFER__'
-      WHEN 43  THEN '__TRANSFER__'
+      WHEN '21' THEN '__TRANSFER__'
+      WHEN '37' THEN '__TRANSFER__'
+      WHEN '38' THEN '__TRANSFER__'
+      WHEN '39' THEN '__TRANSFER__'
+      WHEN '40' THEN '__TRANSFER__'
+      WHEN '41' THEN '__TRANSFER__'
+      WHEN '42' THEN '__TRANSFER__'
+      WHEN '43' THEN '__TRANSFER__'
       ELSE 'Khác'
     END AS logway_group,
     imoney
