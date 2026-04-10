@@ -1,0 +1,52 @@
+{
+  "_description": "Key KTO Trino table descriptions used by the spending baseline pipeline.",
+  "_schema": "hive.kto_658",
+  "_updated": "2026-04-09",
+
+  "tables": {
+    "moneychange_reduce": {
+      "purpose": "Every Gold outflow transaction — player spends Gold on any game service.",
+      "filter_for_baseline": "moneytype = 'Gold' AND big_type_logway NOT IN (21,37,38,39,40,41,42,43)",
+      "partition_col": "ds",
+      "key_columns": {
+        "ds":               "Partition date YYYY-MM-DD — always filter on this first",
+        "roleid":           "Player character ID (primary key for player)",
+        "viplevel":         "VIP tier 0–18 — used as cohort proxy",
+        "moneytype":        "Currency type — filter = 'Gold'",
+        "imoney":           "Gold amount spent in this transaction",
+        "before":           "Balance before transaction — use first() per role per day for BOD balance",
+        "after":            "Balance after transaction — use last() per role per day for EOD balance",
+        "big_type_logway":  "Logway category number — exclude 21,37,38,39,40,41,42,43 (transfers)",
+        "logway_name":      "Human-readable logway e.g. LogWay_ShopBuy",
+        "channelid":        "Platform: vngktovn, ios_vngktovn, pc_vngktovn"
+      }
+    },
+    "moneychange_add": {
+      "purpose": "Every Gold inflow transaction — player receives Gold from any source.",
+      "filter_for_recharge_inflow": "moneytype = 'Gold' AND logway_name = 'LogWay_Recharge'",
+      "partition_col": "ds",
+      "key_columns": {
+        "ds":           "Partition date YYYY-MM-DD",
+        "roleid":       "Player character ID",
+        "viplevel":     "VIP tier 0–18",
+        "moneytype":    "Currency type — filter = 'Gold'",
+        "imoney":       "Gold amount received",
+        "logway_name":  "LogWay_Recharge (bigtype 89) = real money top-up; others = system rewards/transfers"
+      }
+    },
+    "recharge_deliver": {
+      "purpose": "Real money top-up events — VND paid, Gold delivered.",
+      "partition_col": "ds",
+      "key_columns": {
+        "ds":           "Partition date YYYY-MM-DD",
+        "roleid":       "Player character ID",
+        "price":        "VND amount × 100 — ALWAYS divide by 100 for actual VND",
+        "imoney":       "Gold delivered from this purchase",
+        "product_id":   "Package ID e.g. com.ktovn.w.kt.2000",
+        "firstpay":     "'1' = first-time payer for this player",
+        "channel":      "Payment channel: web, ios, android"
+      },
+      "price_note": "price = 5.0E7 → actual = 500,000 VND. Always: SUM(price)/100"
+    }
+  }
+}

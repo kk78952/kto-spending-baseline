@@ -1,0 +1,37 @@
+{
+  "cohorts": {
+    "whale":   { "vip_min": 12, "vip_max": 99, "color": "#F0997B", "label": "Whale" },
+    "dolphin": { "vip_min": 7,  "vip_max": 11, "color": "#5DCAA5", "label": "Dolphin" },
+    "minnow":  { "vip_min": 0,  "vip_max": 6,  "color": "#85B7EB", "label": "Minnow" }
+  },
+  "price_divisor": 100,
+  "moneytype_filter": "Gold",
+  "transfer_logways_exclude": [21, 37, 38, 39, 40, 41, 42, 43],
+  "recharge_logway_bigtype": 89,
+  "ets": {
+    "seasonal_period": 7,
+    "trend": "add",
+    "seasonal": "add",
+    "min_training_days": 56,
+    "recommended_training_days": 180,
+    "forecast_horizon": 7,
+    "confidence_band_pct": 0.15,
+    "initial_alpha": 0.2,
+    "recalibration_mape_threshold": 0.15,
+    "recalibration_consecutive_days": 7
+  },
+  "alerts": {
+    "velocity_whale_threshold": 0.40,
+    "consecutive_days_trigger": 3,
+    "deviation_warning_pct": 15,
+    "deviation_critical_pct": 25
+  },
+  "event_calendar": {
+    "exclude_days_before_event": 3,
+    "exclude_days_after_event": 5
+  },
+  "trino": {
+    "catalog": "hive",
+    "schema": "kto_658"
+  }
+}

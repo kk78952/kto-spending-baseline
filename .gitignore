@@ -1,0 +1,33 @@
+# Credentials — never commit
+config/*.env
+config/credentials.json
+.env
+.env.*
+!.env.example
+
+# Generated data — re-created by pipeline each run
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Root-level source originals (canonical copies are in docs/ and event_calendar/)
+/KTO_*.xlsx
+/Mo_Hinh_*.docx
+/project_spec.md
+/kto_spending_dashboard_dark.jsx

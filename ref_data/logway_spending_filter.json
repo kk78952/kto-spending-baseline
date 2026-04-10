@@ -1,0 +1,44 @@
+{
+  "_description": "Defines which logway bigtypes are INCLUDED in the spending baseline vs EXCLUDED as player transfers.",
+  "_updated": "2026-04-09",
+
+  "exclude_bigtypes": [21, 37, 38, 39, 40, 41, 42, 43],
+  "exclude_reason": "Player-to-player transfers (Đến ngay group) — Gold moves between roles, not destroyed",
+  "exclude_logways": [
+    { "bigtype": 21, "logway_name": "LogWay_Trade",                      "description": "Trade between players" },
+    { "bigtype": 37, "logway_name": "LogWay_MarketStallCostMoneyBuy",     "description": "Market stall buy with Gold" },
+    { "bigtype": 38, "logway_name": "LogWay_MarketStallCostItem",         "description": "Market stall list item" },
+    { "bigtype": 39, "logway_name": "LogWay_MarketStallCancelItem",       "description": "Market stall cancel listing" },
+    { "bigtype": 40, "logway_name": "LogWay_MarketStallGetMoney",         "description": "Market stall seller receives Gold" },
+    { "bigtype": 41, "logway_name": "LogWay_MarketStallGetItem",          "description": "Market stall buyer receives item" },
+    { "bigtype": 42, "logway_name": "LogWay_MarketUpdateItemCost",        "description": "Market stall update listing price" },
+    { "bigtype": 43, "logway_name": "LogWay_MarketStallCostMoneyNewSell", "description": "Market stall new sell listing fee" }
+  ],
+
+  "include_groups": [
+    "Mua ở Cửa Hàng",
+    "Trân Bảo Hành",
+    "Đấu Giá",
+    "Trang Bị",
+    "Bảo Thạch",
+    "Khí Linh",
+    "Thú Cưỡi",
+    "Ngũ Hành Ấn",
+    "Kỹ Năng Sống",
+    "Đồng Hành",
+    "Bang Hội",
+    "Lì Xì",
+    "Nạp",
+    "Khác",
+    "Hoạt Động"
+  ],
+  "include_notes": "All logway groups except 'Đến ngay' are included. These represent Gold permanently leaving a player's wallet for game services.",
+
+  "recharge_inflow": {
+    "bigtype": 89,
+    "logway_name": "LogWay_Recharge",
+    "description": "Gold received from real-money top-up. Used in moneychange_add to identify recharge Gold inflow."
+  },
+
+  "sql_filter": "big_type_logway NOT IN (21, 37, 38, 39, 40, 41, 42, 43)"
+}

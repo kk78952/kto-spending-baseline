@@ -1,0 +1,46 @@
+{
+  "_description": "Maps viplevel (0–18) to cohort label for spending segmentation.",
+  "_updated": "2026-04-09",
+  "_rationale": "VIP 12 cutoff chosen because avg lifetime spend doubles from VIP11 (16M VND) to VIP12 (34.7M VND) — a natural breakpoint.",
+
+  "cohorts": [
+    {
+      "id": "whale",
+      "label": "Whale",
+      "vip_min": 12,
+      "vip_max": 99,
+      "color": "#F0997B",
+      "estimated_pct_players": 1.1,
+      "estimated_pct_revenue": 47.5,
+      "avg_lifetime_vnd": 62700000
+    },
+    {
+      "id": "dolphin",
+      "label": "Dolphin",
+      "vip_min": 7,
+      "vip_max": 11,
+      "color": "#5DCAA5",
+      "estimated_pct_players": 10.8,
+      "estimated_pct_revenue": 39.5,
+      "avg_lifetime_vnd": 5500000
+    },
+    {
+      "id": "minnow",
+      "label": "Minnow",
+      "vip_min": 0,
+      "vip_max": 6,
+      "color": "#85B7EB",
+      "estimated_pct_players": 88.1,
+      "estimated_pct_revenue": 13.0,
+      "avg_lifetime_vnd": 200000
+    }
+  ],
+
+  "sql_case": "CASE WHEN viplevel >= 12 THEN 'whale' WHEN viplevel >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort",
+
+  "notes": [
+    "viplevel is taken directly from moneychange_reduce/add rows — no join needed.",
+    "viplevel is a proxy for lifetime spend. Actual cohort may differ for new whales still leveling VIP.",
+    "A player's cohort for a given day is their viplevel AT THE TIME of the transaction, not a fixed historical assignment."
+  ]
+}

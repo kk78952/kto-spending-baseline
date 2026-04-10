@@ -1,0 +1,25 @@
+[build]
+  # No build step — static files served directly.
+  # Run the pipeline locally, then deploy with: netlify deploy --dir . --prod
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to   = "/dashboard/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/dashboard"
+  to   = "/dashboard/index.html"
+  status = 200
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "no-cache, no-store, must-revalidate"
+
+[[headers]]
+  for = "/dashboard/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
