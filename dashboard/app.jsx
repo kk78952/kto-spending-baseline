@@ -190,8 +190,10 @@ function Dashboard() {
     });
   }, []);
 
+  const EMPTY = { trendData: [], ydAll: {}, cohortRows: COHORTS.map(c => ({ c })), velData: COHORTS.map(c => ({ c, vals: [], trend: "stable" })), spenderData: COHORTS.map(c => ({ c, vals: [], newVals: [] })), shopData: [], reportDate: "–", dataDate: "–" };
+
   const { trendData, ydAll, cohortRows, velData, spenderData, shopData, reportDate, dataDate } = useMemo(() => {
-    if (!metrics || !metrics.length) return {};
+    if (!metrics || !metrics.length) return EMPTY;
 
     const allDates = [...new Set(metrics.map(r => r.ds))].sort();
     const latestDate = allDates[allDates.length - 1];
