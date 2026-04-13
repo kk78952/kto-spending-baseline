@@ -90,10 +90,12 @@ def build_event_flags(start: date, end: date) -> dict:
 # ── Main queries ───────────────────────────────────────────────────────────────
 C = "CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END"
 
-# Logways excluded from spending: player transfers, lucky money gifts, wedding gifts.
-# '29' Đấu Giá excluded from moneychange_reduce because successful auctions are
-# captured separately in jingpai_succ to avoid double-counting.
-EXCLUDE_LOGWAYS = "('21','29','37','38','39','40','41','42','43','64','404','405')"
+# P2P trade logways — excluded from spend/burn metrics (Kim Long reference SQL).
+# '21' Giao Dịch, '29' Đấu Giá (auction deposits), '64' Lì Xì, '404' Tiền mừng cưới
+# Successful auction spend is captured separately via jingpai_succ UNION ALL.
+# Note: '37','38','39','40','41','42','43','405' were previously excluded but are
+# legitimate game spending; they are retained in spend metrics.
+EXCLUDE_LOGWAYS = "('21','29','64','404')"
 
 def SPEND_SQL(s, e): return f"""
 WITH all_reduce AS (
