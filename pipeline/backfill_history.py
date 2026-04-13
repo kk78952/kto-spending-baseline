@@ -90,20 +90,43 @@ def build_event_flags(start: date, end: date) -> dict:
 # ── Main queries ───────────────────────────────────────────────────────────────
 C = "CASE WHEN TRY_CAST(viplevel AS INTEGER) >= 12 THEN 'whale' WHEN TRY_CAST(viplevel AS INTEGER) >= 7 THEN 'dolphin' ELSE 'minnow' END"
 
+# Logways excluded from spending: player transfers, lucky money gifts, wedding gifts.
+# '29' Đấu Giá excluded from moneychange_reduce because successful auctions are
+# captured separately in jingpai_succ to avoid double-counting.
+EXCLUDE_LOGWAYS = "('21','29','37','38','39','40','41','42','43','64','404','405')"
+
 def SPEND_SQL(s, e): return f"""
+WITH all_reduce AS (
+  SELECT
+    ds,
+    TRY_CAST(viplevel AS INTEGER) AS vip,
+    TRY_CAST(imoney   AS BIGINT)  AS amount,
+    roleid
+  FROM hive.kto_658.moneychange_reduce
+  WHERE ds BETWEEN '{s}' AND '{e}'
+    AND moneytype = 'Gold'
+    AND serverid  LIKE '60%'
+    AND big_type_logway NOT IN {EXCLUDE_LOGWAYS}
+
+  UNION ALL
+
+  SELECT
+    ds,
+    NULL                        AS vip,
+    CAST(total_price AS BIGINT) AS amount,
+    role_id                     AS roleid
+  FROM hive.kto_658.jingpai_succ
+  WHERE ds BETWEEN '{s}' AND '{e}'
+    AND money_type = 'Gold'
+    AND server_id  LIKE '60%'
+)
 SELECT
   ds,
-  {C} AS cohort,
-  SUM(TRY_CAST(imoney AS BIGINT))   AS total_gold_spent,
-  COUNT(DISTINCT roleid)             AS active_spenders,
-  ROUND(
-    CAST(SUM(TRY_CAST(imoney AS BIGINT)) AS DOUBLE) / NULLIF(COUNT(DISTINCT roleid), 0),
-    2
-  ) AS avg_spend_per_role
-FROM hive.kto_658.moneychange_reduce
-WHERE ds BETWEEN '{s}' AND '{e}'
-  AND moneytype = 'Gold'
-  AND big_type_logway NOT IN ('21','37','38','39','40','41','42','43')
+  CASE WHEN vip >= 12 THEN 'whale' WHEN vip >= 7 THEN 'dolphin' ELSE 'minnow' END AS cohort,
+  SUM(amount)                                                                       AS total_gold_spent,
+  COUNT(DISTINCT roleid)                                                            AS active_spenders,
+  ROUND(CAST(SUM(amount) AS DOUBLE) / NULLIF(COUNT(DISTINCT roleid), 0), 2)       AS avg_spend_per_role
+FROM all_reduce
 GROUP BY 1, 2
 ORDER BY ds, cohort
 """
@@ -117,6 +140,7 @@ SELECT
 FROM hive.kto_658.moneychange_add
 WHERE ds BETWEEN '{s}' AND '{e}'
   AND moneytype = 'Gold'
+  AND serverid  LIKE '60%'
 GROUP BY 1, 2
 ORDER BY ds, cohort
 """
@@ -144,7 +168,8 @@ WITH spend_bod AS (
   FROM hive.kto_658.moneychange_reduce
   WHERE ds BETWEEN '{s}' AND '{e}'
     AND moneytype = 'Gold'
-    AND big_type_logway NOT IN ('21','37','38','39','40','41','42','43')
+    AND serverid  LIKE '60%'
+    AND big_type_logway NOT IN {EXCLUDE_LOGWAYS}
   GROUP BY ds, 2, roleid
 ),
 inflow AS (
@@ -156,6 +181,7 @@ inflow AS (
   FROM hive.kto_658.moneychange_add
   WHERE ds BETWEEN '{s}' AND '{e}'
     AND moneytype = 'Gold'
+    AND serverid  LIKE '60%'
   GROUP BY ds, 2, roleid
 )
 SELECT
