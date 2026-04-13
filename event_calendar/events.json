@@ -1,1 +1,4713 @@
-[]
+[
+  {
+    "start_date": "2023-03-27",
+    "end_date": "2023-04-24",
+    "name": "Quà Mừng Lễ",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-03-27",
+    "end_date": "2023-04-24",
+    "name": "Pháo Hoa Mừng Lễ",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-03-27",
+    "end_date": "2023-04-26",
+    "name": "Pháo Hoa May Mắn",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-03-27",
+    "end_date": "2023-05-09",
+    "name": "Hoàng Kim Tài Phú",
+    "track": 5,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-04-04",
+    "end_date": "2023-05-03",
+    "name": "Rương Phúc Tinh Cao Chiếu",
+    "track": 7,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-04-10",
+    "end_date": "2023-04-26",
+    "name": "Bảo Thố Chúc Phúc",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-04-12",
+    "end_date": "2023-05-09",
+    "name": "Nạp Hoàn Trả",
+    "track": 8,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-04-25",
+    "end_date": "2023-05-09",
+    "name": "Mâm Cổ Tiến Vua",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-04-25",
+    "end_date": "2023-05-09",
+    "name": "Lao Động Là Vinh Quang",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-04-27",
+    "end_date": "2023-05-09",
+    "name": "Quà Tặng Đoàn Kết",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-04-27",
+    "end_date": "2023-05-09",
+    "name": "Gói Quà Mừng Lễ",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-04",
+    "end_date": "2023-05-09",
+    "name": "Ưu đãi Thiệp Chiêu Mộ ĐH",
+    "track": 7,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2023-05-23",
+    "name": "Lễ Hội Pháo Hoa",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2023-05-31",
+    "name": "Nga Mi Cố Sự",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2023-05-31",
+    "name": "Kết Nghĩa Đào Viên",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2023-06-07",
+    "name": "Tích Lũy Nạp Thẻ",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2023-09-09",
+    "name": "Ưu đãi Kỳ Trân Các",
+    "track": 5,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2023-05-23",
+    "name": "Môn Phái Mới - Nga Mi",
+    "track": 7,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2023-06-19",
+    "name": "Di Tích Hàn Vũ (Chưa Mở)",
+    "track": 8,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2023-07-22",
+    "name": "Tiêu Dao Lục",
+    "track": 9,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2023-06-30",
+    "name": "Hệ thống Kết Bái",
+    "track": 10,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-10",
+    "end_date": "2024-01-06",
+    "name": "Mở cấp 7x",
+    "track": 11,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-24",
+    "end_date": "2023-06-19",
+    "name": "Gói Nạp Quà Ngày Hè",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-05-24",
+    "end_date": "2023-07-19",
+    "name": "Tần Thủy Hoàng Lăng",
+    "track": 7,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-06-01",
+    "end_date": "2023-06-19",
+    "name": "Tết Thiếu Nhi",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-06-01",
+    "end_date": "2023-06-27",
+    "name": "TNTB",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-06-08",
+    "end_date": "2023-08-08",
+    "name": "Nạp Hoàn Trả",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-06-20",
+    "end_date": "2023-07-19",
+    "name": "Quà Đoan Ngọ",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-06-20",
+    "end_date": "2023-07-05",
+    "name": "Đua Thuyền Rồng",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-06-20",
+    "end_date": "2023-07-21",
+    "name": "Di Tích Hàn Vũ (Mở Thử Nghiệm)",
+    "track": 8,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-06-28",
+    "end_date": "2023-07-26",
+    "name": "Gói Nạp Quà Hoa Hạ",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-01",
+    "end_date": "2023-07-03",
+    "name": "Báo Danh",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-01",
+    "end_date": "2024-01-05",
+    "name": "GIẢI ĐẤU VÔ SONG HÀO KIỆT",
+    "track": 10,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-04",
+    "end_date": "2023-07-14",
+    "name": "Vòng Sơ Tuyển",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-06",
+    "end_date": "2023-07-12",
+    "name": "TNTB",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-13",
+    "end_date": "2023-08-02",
+    "name": "Nạp Hoàn Trả",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-15",
+    "end_date": "2023-07-17",
+    "name": "Đấu Loại",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-18",
+    "end_date": "2023-07-25",
+    "name": "Tranh top 8/4",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-20",
+    "end_date": "2023-08-08",
+    "name": "Hè Sôi Động (Câu Cá + Đấu Giá Năng Động)",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-20",
+    "end_date": "2023-11-20",
+    "name": "Bán kết",
+    "track": 7,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-22",
+    "end_date": "2023-09-01",
+    "name": "Chung kết Cụm Hào Kiệt",
+    "track": 8,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-23",
+    "end_date": "2024-01-02",
+    "name": "Chung kết Cụm Vô Song",
+    "track": 9,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-26",
+    "end_date": "2023-08-16",
+    "name": "Tính năng Người Cũ Trở Về",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-07-27",
+    "end_date": "2023-08-08",
+    "name": "Gói Nạp Quà Miêu Lĩnh",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-08-03",
+    "end_date": "2023-08-08",
+    "name": "TNTB",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-08-09",
+    "end_date": "2023-08-30",
+    "name": "Thiên Hạ Đệ Nhất Độc",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-08-09",
+    "end_date": "2023-08-30",
+    "name": "Pháo Hoa Mừng Lễ",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-08-09",
+    "end_date": "2023-08-30",
+    "name": "Ưu Đãi Kỳ Trân Các",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-08-09",
+    "end_date": "2023-09-01",
+    "name": "Nạp Hoàn Trả",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-08-17",
+    "end_date": "2023-09-04",
+    "name": "Đồng Tâm Kỳ Duyên",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-08-31",
+    "end_date": "2023-09-07",
+    "name": "Giảm Giá Nhận Lại",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-08-31",
+    "end_date": "2023-09-10",
+    "name": "Quốc Khánh Năng Động",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-08-31",
+    "end_date": "2023-09-13",
+    "name": "Giang Sơn Như Họa",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-02",
+    "end_date": "2023-09-04",
+    "name": "TNTB",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-02",
+    "end_date": "2023-09-05",
+    "name": "Tống Kim-Tháng",
+    "track": 8,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-05",
+    "end_date": "2023-09-06",
+    "name": "ok",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-06",
+    "end_date": "2023-09-10",
+    "name": "Dự Báo VL102",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-06",
+    "end_date": "2023-11-23",
+    "name": "ok",
+    "track": 8,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-07",
+    "end_date": "2023-10-17",
+    "name": "Rương Thiên Giáng Hồng Phúc",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-08",
+    "end_date": "2023-10-04",
+    "name": "ok",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-10",
+    "end_date": "2023-10-31",
+    "name": "Nạp Hoàn Trả",
+    "track": 5,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-11",
+    "end_date": "2023-09-20",
+    "name": "ok",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-11",
+    "end_date": "2023-09-23",
+    "name": "Vòng Sơ Tuyển VL102",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-14",
+    "end_date": "2023-09-26",
+    "name": "ok",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-21",
+    "end_date": "2023-10-08",
+    "name": "Quà Thu Nguyệt",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-24",
+    "end_date": "2023-09-27",
+    "name": "Tổng kết Sơ Tuyển",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-27",
+    "end_date": "2023-10-09",
+    "name": "Hoạt động Trung Thu",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-09-28",
+    "end_date": "2023-10-07",
+    "name": "Vòng Bán Kết Toàn máy chủ VL102",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-05",
+    "end_date": "2023-10-26",
+    "name": "TNTB",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-08",
+    "end_date": "2023-10-11",
+    "name": "Tổng kết Bán Kết",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-09",
+    "end_date": "2023-10-24",
+    "name": "Nạp Hoàn Trả",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-10",
+    "end_date": "2023-10-24",
+    "name": "Ưu Đãi Tết Trùng Thập",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-12",
+    "end_date": "2023-10-21",
+    "name": "Vòng Chung Kết Liên Game VL102",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-18",
+    "end_date": "2023-11-12",
+    "name": "Hoạt động Phụ Nữ Việt Nam",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-22",
+    "end_date": "2023-11-05",
+    "name": "Tổng kết Chung Kết",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-25",
+    "end_date": "2023-11-09",
+    "name": "Đua Top Bang Hội Kỳ Tài Lần II",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-25",
+    "end_date": "2023-11-12",
+    "name": "Quà Sơ Đông",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-10-27",
+    "end_date": "2023-11-12",
+    "name": "Ưu Đãi Chiêu Mộ Đồng Hành",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-01",
+    "end_date": "2023-11-12",
+    "name": "Rương Phúc Mãn Nhân Gian",
+    "track": 5,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-06",
+    "end_date": "2023-11-12",
+    "name": "TNTB",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-10",
+    "end_date": "2023-12-03",
+    "name": "Nạp Hoàn Trả",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-13",
+    "end_date": "2023-12-06",
+    "name": "Cổ Mộ Mê Tình",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-13",
+    "end_date": "2023-12-11",
+    "name": "Ưu Đãi Kỳ Trân Các",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-13",
+    "end_date": "2023-12-19",
+    "name": "Điểm Danh Ngày Lễ",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-13",
+    "end_date": "2024-02-23",
+    "name": "Pháo Hoa Mừng Lễ",
+    "track": 5,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-13",
+    "end_date": "2023-12-12",
+    "name": "Reset X2 Nguyên Bảo",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-14",
+    "end_date": "2023-11-22",
+    "name": "Thời lượng HĐ BOSS",
+    "track": 15,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-14",
+    "end_date": "2023-12-24",
+    "name": "BXH TPT",
+    "track": 16,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-14",
+    "end_date": "2024-02-23",
+    "name": "Tồn chìa tinh lực",
+    "track": 17,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-15",
+    "end_date": "2023-12-17",
+    "name": "Monthly Report",
+    "track": 18,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-15",
+    "end_date": "2023-11-23",
+    "name": "Rev forecast_VN",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-16",
+    "end_date": "2023-12-05",
+    "name": "Thể lệ Giải Đấu BHTĐC",
+    "track": 19,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-16",
+    "end_date": "2023-11-23",
+    "name": "Req API khấu trừ item (mục đích Vòng Quay)",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-21",
+    "end_date": "2023-12-31",
+    "name": "Quà Sơ Đông",
+    "track": 7,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-23",
+    "end_date": "2023-12-06",
+    "name": "Võ luyện",
+    "track": 15,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-24",
+    "end_date": "2024-01-01",
+    "name": "Ưu Đãi Black Friday",
+    "track": 8,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-24",
+    "end_date": "2023-12-05",
+    "name": "Họp với KS",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-24",
+    "end_date": "2023-12-06",
+    "name": "BXH TPT",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-30",
+    "end_date": "2023-12-06",
+    "name": "Giải đấu all star",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-11-30",
+    "end_date": "2023-12-05",
+    "name": "Request vòng quay Tết",
+    "track": 24,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-04",
+    "end_date": "2023-12-26",
+    "name": "Nạp Hoàn Trả",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-04",
+    "end_date": "2023-12-05",
+    "name": "Merge sv",
+    "track": 12,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-06",
+    "end_date": "2023-12-19",
+    "name": "Test API",
+    "track": 12,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-06",
+    "end_date": "2023-12-28",
+    "name": "Test nhập code (trước 12/12)",
+    "track": 19,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-06",
+    "end_date": "2023-12-07",
+    "name": "Thưởng BHKT",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-06",
+    "end_date": "2023-12-08",
+    "name": "BXH giải đấu",
+    "track": 24,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-07",
+    "end_date": "2024-01-03",
+    "name": "TNTB",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-07",
+    "end_date": "2023-12-24",
+    "name": "Thu hồi chìa",
+    "track": 15,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-07",
+    "end_date": "2024-02-23",
+    "name": "Thưởng giải đấu BHTĐC",
+    "track": 20,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-07",
+    "end_date": "2024-01-11",
+    "name": "Gói Quà Năm Mới",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-08",
+    "end_date": "2024-02-23",
+    "name": "Trao đổi vấn đề tái đấu vòng tranh đoạt",
+    "track": 13,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-08",
+    "end_date": "2023-12-12",
+    "name": "Checklist giải đấu BHTĐC",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-09",
+    "end_date": "2024-01-10",
+    "name": "Giảm giá Phi Phong",
+    "track": 24,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-12",
+    "end_date": "2024-01-16",
+    "name": "Ưu đãi 12-12",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-13",
+    "end_date": "2023-12-24",
+    "name": "Vòng Tuyển chọn BHTĐC",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-13",
+    "end_date": "2023-12-17",
+    "name": "Đánh giá PP",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-13",
+    "end_date": "2023-12-19",
+    "name": "Bổ sung thêm đá cho quà mỗi ngày",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-18",
+    "end_date": "2024-02-23",
+    "name": "Monthly Report",
+    "track": 18,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-18",
+    "end_date": "2023-12-21",
+    "name": "Event tháng 1",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-20",
+    "end_date": "2024-01-23",
+    "name": "Chuỗi event giáng sinh",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-20",
+    "end_date": "2024-02-23",
+    "name": "Xóa role",
+    "track": 12,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-20",
+    "end_date": "2023-12-28",
+    "name": "API cho KS",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-22",
+    "end_date": "2023-12-26",
+    "name": "Plan BU Bá Đao",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-25",
+    "end_date": "2023-12-30",
+    "name": "Vòng Tranh Đoạt BHTĐC",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-25",
+    "end_date": "2024-01-24",
+    "name": "Data SV",
+    "track": 15,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-25",
+    "end_date": "2024-02-23",
+    "name": "Event tháng (team DATA)",
+    "track": 16,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-27",
+    "end_date": "2024-01-11",
+    "name": "Quà Năm Mới",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-27",
+    "end_date": "2024-01-05",
+    "name": "Phương thức vòng quay Tết",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-29",
+    "end_date": "2024-01-25",
+    "name": "DS VIP",
+    "track": 19,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-29",
+    "end_date": "2024-01-05",
+    "name": "Lôi Đài LSV",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-30",
+    "end_date": "2024-02-23",
+    "name": "Đánh giá merge",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2023-12-31",
+    "end_date": "2024-02-27",
+    "name": "Vượt Vũ Môn (H5)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2023-12-31",
+    "end_date": "2024-02-23",
+    "name": "Cổ Vũ Chung Kết",
+    "track": 6,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-01",
+    "end_date": "2024-02-23",
+    "name": "Vòng Chung Kết BHTĐC",
+    "track": 7,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-02",
+    "end_date": "2024-02-23",
+    "name": "T8",
+    "track": 8,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-03",
+    "end_date": "2024-02-23",
+    "name": "T4",
+    "track": 9,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-04",
+    "end_date": "2024-01-07",
+    "name": "TNTB",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-06",
+    "end_date": "2024-02-23",
+    "name": "Bán kết",
+    "track": 10,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-06",
+    "end_date": "2024-01-10",
+    "name": "Thông tin PBM",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-06",
+    "end_date": "2024-01-08",
+    "name": "File họp KS",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-07",
+    "end_date": "2024-02-23",
+    "name": "Chung kết",
+    "track": 11,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-08",
+    "end_date": "2024-02-04",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-09",
+    "end_date": "2024-01-21",
+    "name": "Thưởng chi tiết Vòng Quay Tết",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-11",
+    "end_date": "2024-01-16",
+    "name": "Event Tết Nguyên Đán",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-11",
+    "end_date": "2024-01-24",
+    "name": "Bổ sung tài nguyên nạp hoàn trả",
+    "track": 24,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-12",
+    "end_date": "2024-02-23",
+    "name": "Phúc Lộc Tề Thiên",
+    "track": 2,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-12",
+    "end_date": "2023-12-31",
+    "name": "Rương Phúc Lộc Tề Thiên",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-01-12",
+    "end_date": "2024-01-21",
+    "name": "Thưởng chi tiết Gói Xuân Mới",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-17",
+    "end_date": "2024-02-23",
+    "name": "Tết Lạp Bát",
+    "track": 3,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-17",
+    "end_date": "2024-01-19",
+    "name": "Event vận hành T2",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-20",
+    "end_date": "2024-02-23",
+    "name": "File họp gửi KS",
+    "track": 22,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-22",
+    "end_date": "2024-01-24",
+    "name": "MM KS&VNG",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-22",
+    "end_date": "2024-01-24",
+    "name": "Test trục 129",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-24",
+    "end_date": "2024-02-23",
+    "name": "Quà Tân Xuân",
+    "track": 4,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-25",
+    "end_date": "2024-02-23",
+    "name": "Data Server",
+    "track": 15,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-25",
+    "end_date": "2024-01-29",
+    "name": "Test Vòng Quay",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-25",
+    "end_date": "2024-02-23",
+    "name": "Checklist BU Bá Đao",
+    "track": 23,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-25",
+    "end_date": "2024-02-23",
+    "name": "Điều chỉnh thưởng Vòng Quay",
+    "track": 24,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-01-26",
+    "end_date": "2024-02-23",
+    "name": "Gen Code",
+    "track": 19,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-02-01",
+    "end_date": "2024-02-22",
+    "name": "Tài Vận Hanh Thông",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-03",
+    "end_date": "2024-02-08",
+    "name": "TNTB",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-04",
+    "end_date": "2024-02-22",
+    "name": "Tân Xuân Chung Vui",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-04",
+    "end_date": "2024-02-27",
+    "name": "Ưu Đãi Nhận Lại",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-05",
+    "end_date": "2024-02-23",
+    "name": "Event Tết Nguyên Đán",
+    "track": 1,
+    "year": 2023
+  },
+  {
+    "start_date": "2024-02-08",
+    "end_date": "2024-02-27",
+    "name": "Nạp Hoàn Trả",
+    "track": 10,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-09",
+    "end_date": "2024-02-22",
+    "name": "Lì Xì Phúc Vận",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-09",
+    "end_date": "2024-02-27",
+    "name": "Tiệc Tất Niên",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-09",
+    "end_date": "2024-02-13",
+    "name": "Niên Thú",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-09",
+    "end_date": "2024-02-13",
+    "name": "Đếm ngược Tân Xuân",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-09",
+    "end_date": "2024-02-27",
+    "name": "Hoạt Động Cuối Tuần",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-14",
+    "end_date": "2024-02-19",
+    "name": "Tâm Đầu Ý Hợp (Valentine)",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-14",
+    "end_date": "2024-03-03",
+    "name": "Ưu đãi (Valentine)",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-20",
+    "end_date": "2024-03-07",
+    "name": "Quà Du Xuân",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-20",
+    "end_date": "2024-03-24",
+    "name": "Dánh sách merge",
+    "track": 15,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-20",
+    "end_date": "2024-03-12",
+    "name": "Storekit",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-20",
+    "end_date": "2024-04-15",
+    "name": "Submit",
+    "track": 20,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-21",
+    "end_date": "2024-04-18",
+    "name": "Cụ thể Plan 2024",
+    "track": 21,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-21",
+    "end_date": "2024-03-12",
+    "name": "RP Vượt Vũ Môn",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-23",
+    "end_date": "2024-02-27",
+    "name": "Đố Đèn",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-23",
+    "end_date": "2024-02-27",
+    "name": "Mỹ Vị NT",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-23",
+    "end_date": "2024-02-27",
+    "name": "Tiệc NT",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-04-09",
+    "name": "Dương Đao Đại Hội",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-03-20",
+    "name": "Tái Xuất Giang Hồ",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-03-26",
+    "name": "Lễ Hội Pháo Hoa",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-03-12",
+    "name": "Ưu đãi Kỳ Trân Các",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-03-31",
+    "name": "Reset X2 Nguyên Bảo",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-04-03",
+    "name": "Quà Tặng Phiên Bản",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-03-06",
+    "name": "Bá Đao",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-05-28",
+    "name": "Kinh mạch",
+    "track": 10,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-05-29",
+    "name": "Thiên Tầng Tháp",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-04-15",
+    "name": "Map LSV KTH",
+    "track": 12,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-02-28",
+    "end_date": "2024-10-15",
+    "name": "Vận Tiêu KTH",
+    "track": 13,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-04",
+    "end_date": "2024-05-25",
+    "name": "Nạp Hoàn Trả",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-07",
+    "end_date": "2024-05-28",
+    "name": "Ưu đãi 8-3",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-08",
+    "end_date": "2024-03-17",
+    "name": "TNTB",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-13",
+    "end_date": "2024-04-25",
+    "name": "Rương Phúc Đại Viên Mãn",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-13",
+    "end_date": "2024-04-03",
+    "name": "Vô Song Hào Kiệt",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-13",
+    "end_date": "2024-03-15",
+    "name": "Đánh giá mở dòng 2 Kinh Mạch",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-13",
+    "end_date": "2024-03-15",
+    "name": "Edit event Thanh Minh -> Giỗ Tổ",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-13",
+    "end_date": "2024-04-05",
+    "name": "Bổ sung thưởng event Sinh Nhật",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-13",
+    "end_date": "2024-03-15",
+    "name": "Test thưởng vòng quay Sinh Nhật",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-13",
+    "end_date": "2024-03-14",
+    "name": "Plan T4",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-15",
+    "end_date": "2024-04-05",
+    "name": "Đánh giá lại Vận Tiêu và nguồn sinh Kinh Mạch",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-16",
+    "end_date": "2024-03-17",
+    "name": "Test TW",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-16",
+    "end_date": "2024-04-05",
+    "name": "Điều tra thằng nạp 50K 300 lần",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-16",
+    "end_date": "2024-04-05",
+    "name": "Code report",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-18",
+    "end_date": "2024-05-15",
+    "name": "Quà Đầu Hạ",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-18",
+    "end_date": "2024-04-02",
+    "name": "Vòng quay sinh nhật",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-21",
+    "end_date": "2024-04-12",
+    "name": "Vòng quay sinh nhật (5.4B, 2.9K PU)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-25",
+    "end_date": "2024-04-10",
+    "name": "Dánh sách merge",
+    "track": 15,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-03-27",
+    "end_date": "2024-04-17",
+    "name": "Event sinh nhật",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-01",
+    "end_date": "2024-04-25",
+    "name": "Nạp Hoàn Trả",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-03",
+    "end_date": "2024-04-15",
+    "name": "Req Promotion Vòng Quay Mừng Lễ",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-04",
+    "end_date": "2024-05-12",
+    "name": "TNTB",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-04",
+    "end_date": "2024-04-11",
+    "name": "Đánh giá Tái Xuất Giang Hồ",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-06",
+    "end_date": "2024-04-10",
+    "name": "Thưởng Vòng Quay Mừng Lễ",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-06",
+    "end_date": "2024-04-11",
+    "name": "Điều chỉnh text Bảo Vệ Hồn Tổ Tiên",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-06",
+    "end_date": "2024-04-11",
+    "name": "Ưu hóa mở rộng Kinh Mạch",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-06",
+    "end_date": "2024-04-11",
+    "name": "Đánh giá BU",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-10",
+    "end_date": "2024-05-07",
+    "name": "Event Giỗ Tổ",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-11",
+    "end_date": "2024-05-26",
+    "name": "Check phân loại gói nạp",
+    "track": 15,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-11",
+    "end_date": "2024-10-15",
+    "name": "Check phân loại item - TA",
+    "track": 16,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-11",
+    "end_date": "2024-04-11",
+    "name": "Check data bày bán",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-12",
+    "end_date": "2024-04-18",
+    "name": "Nội dung Ưu đãi Mừng Lễ - TA",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-12",
+    "end_date": "2024-05-06",
+    "name": "Giải pháp cho user drop",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-12",
+    "end_date": "2024-04-15",
+    "name": "Fix hoàn sao lãnh thổ",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-12",
+    "end_date": "2024-04-14",
+    "name": "FB EV 1-6",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-12",
+    "end_date": "2025-02-10",
+    "name": "Đền bù nạp (retry thành công, thất bại)",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-13",
+    "end_date": "2024-04-30",
+    "name": "Ưu đãi Mừng Lễ",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-15",
+    "end_date": "2024-06-19",
+    "name": "Gửi đối tác data bị thiếu tuần 9-10/4",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-16",
+    "end_date": "2024-04-29",
+    "name": "Ticket API vòng quay mừng lễ",
+    "track": 12,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-16",
+    "end_date": "2024-04-25",
+    "name": "Plan nửa đầu T5",
+    "track": 20,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-16",
+    "end_date": "2024-04-24",
+    "name": "FB điều chỉnh kỹ năng",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-16",
+    "end_date": "2024-05-15",
+    "name": "Gửi đối tác data bị thiếu Tháng 2",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-18",
+    "end_date": "2024-05-03",
+    "name": "Quà Mừng Lễ",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-19",
+    "end_date": "2024-04-25",
+    "name": "Plan T5 (full)",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-19",
+    "end_date": "2025-02-10",
+    "name": "Thưởng sân chơi social",
+    "track": 21,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-25",
+    "end_date": "2024-05-02",
+    "name": "FB EV Đoan Ngọ",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-26",
+    "end_date": "2024-05-19",
+    "name": "庆典转盘_Vòng Quay Mừng Lễ",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-26",
+    "end_date": "2024-05-12",
+    "name": "劳动节活动系列_Chuỗi event Lễ Lao Động",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-26",
+    "end_date": "2024-05-03",
+    "name": "Plan BU T6",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-26",
+    "end_date": "2024-05-26",
+    "name": "Code T5",
+    "track": 20,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-04-30",
+    "end_date": "2024-10-15",
+    "name": "Điều chỉnh zonemapping",
+    "track": 12,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-01",
+    "end_date": "2024-05-28",
+    "name": "Nạp Hoàn Trả",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-03",
+    "end_date": "2024-05-26",
+    "name": "Timeline update & lên tin Kinh Mạch",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-04",
+    "end_date": "2024-05-16",
+    "name": "Rương Phú Quý Cát Tường (708M, 2K PU)",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-04",
+    "end_date": "2024-05-09",
+    "name": "Giải đấu đồng lực chiến",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-07",
+    "end_date": "2024-06-11",
+    "name": "Hỗ trợ VIP ở sv mới",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-08",
+    "end_date": "2024-05-12",
+    "name": "TNTB",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-10",
+    "end_date": "2024-05-27",
+    "name": "Giải đấu Việt-Trung",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-13",
+    "end_date": "2024-05-28",
+    "name": "Trợ Uy Vô Song",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-13",
+    "end_date": "2024-06-04",
+    "name": "Giải đấu Vô Song Hào Kiệt",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-13",
+    "end_date": "2024-06-04",
+    "name": "Báo Danh",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-16",
+    "end_date": "2024-06-04",
+    "name": "Sơ Tuyển",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-16",
+    "end_date": "2024-06-12",
+    "name": "Ưu hóa cấp độ",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-17",
+    "end_date": "2024-05-28",
+    "name": "Quà Mùa Hạ",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-20",
+    "end_date": "2024-06-04",
+    "name": "Tầm Duyên Mùa Hạ (1.1B)",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-26",
+    "end_date": "2024-05-28",
+    "name": "Đấu Loại",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-27",
+    "end_date": "2024-10-15",
+    "name": "Data merge",
+    "track": 15,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-27",
+    "end_date": "2025-02-10",
+    "name": "Bảng đấu 16 đội",
+    "track": 20,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-27",
+    "end_date": "2024-06-13",
+    "name": "Chốt ngoại quan đồng bộ trong BU",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-28",
+    "end_date": "2024-06-20",
+    "name": "Store kit",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-29",
+    "end_date": "2024-06-15",
+    "name": "Số Tay Tuổi Thơ",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-29",
+    "end_date": "2024-06-18",
+    "name": "Công Viên Giải Trí (2B) (3.7K PU)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-29",
+    "end_date": "2024-06-25",
+    "name": "Thổi Bong Bóng",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-29",
+    "end_date": "2024-06-04",
+    "name": "Dự Đoán",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-29",
+    "end_date": "2024-06-02",
+    "name": "Top 8",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-29",
+    "end_date": "2024-06-09",
+    "name": "Top 4",
+    "track": 10,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-05-30",
+    "end_date": "2024-05-31",
+    "name": "Bán Kết",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-01",
+    "end_date": "2024-06-14",
+    "name": "Chung Kết",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-03",
+    "end_date": "2024-07-02",
+    "name": "Nạp Hoàn Trả",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-05",
+    "end_date": "2024-06-25",
+    "name": "Đua Thuyền Rồng",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-05",
+    "end_date": "2024-06-25",
+    "name": "Quà Đoan Ngọ (1.3B) (3.1K PU)",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-05",
+    "end_date": "2024-06-25",
+    "name": "Búp Bê Hoài Cổ",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-05",
+    "end_date": "2024-06-25",
+    "name": "Kẻ Trộm Thanh Xuân",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-05",
+    "end_date": "2024-06-25",
+    "name": "Đoan Ngọ Gói Bánh (1.6B)",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-10",
+    "end_date": "2024-08-28",
+    "name": "TNTB",
+    "track": 10,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-12",
+    "end_date": "2025-02-10",
+    "name": "Plan nửa đầu T7",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-13",
+    "end_date": "2025-02-10",
+    "name": "RP T5 cho đối tác",
+    "track": 23,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-14",
+    "end_date": "2024-07-26",
+    "name": "RP họp định kỳ T6",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-15",
+    "end_date": "2024-06-28",
+    "name": "Vòng Loại Euro 2024",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-16",
+    "end_date": "2024-07-07",
+    "name": "Quà Mùa Hè (1.72B, 2k5 PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-19",
+    "end_date": "2024-07-02",
+    "name": "Càn Quét Mùa Hè (2tr4 KL, 78tr3 NB) (600M)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-20",
+    "end_date": "2025-02-10",
+    "name": "File họp đối tác",
+    "track": 24,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-21",
+    "end_date": "2025-02-10",
+    "name": "RP hiệu quả các giải đấu trước đây",
+    "track": 19,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-26",
+    "end_date": "2024-07-18",
+    "name": "逍遥自在_Tiêu Diêu Tự Tại (2.6B, 6.7K PU)",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-26",
+    "end_date": "2024-07-28",
+    "name": "奇珍阁特惠_Ưu đãi Kỳ Trân Các (1.6B, 4k6 PU) (170tr NB)",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-26",
+    "end_date": "2024-08-07",
+    "name": "再闯江湖Tái Xuất Giang Hồ",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-26",
+    "end_date": "2024-08-07",
+    "name": "重置首次充值双_Reset X2 Nguyên Bảo",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-26",
+    "end_date": "2024-08-28",
+    "name": "资料片礼物_Quà Tặng Phiên Bản",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-26",
+    "end_date": "2024-08-28",
+    "name": "烟花庆典-Pháo Hoa Mừng Lễ",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-06-29",
+    "end_date": "2024-07-04",
+    "name": "Top 8 EU",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-03",
+    "end_date": "2024-07-24",
+    "name": "Vui Cùng Euro (2.6B, 2.4K PU)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-03",
+    "end_date": "2024-08-28",
+    "name": "Nạp Hoàn Trả",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-05",
+    "end_date": "2024-07-09",
+    "name": "Tứ Kết EU",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-08",
+    "end_date": "2024-07-16",
+    "name": "TNTB (0.93B, 1k4 PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-10",
+    "end_date": "2024-07-14",
+    "name": "Bán Kết",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-15",
+    "end_date": "2024-08-28",
+    "name": "Chung Kết",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-17",
+    "end_date": "2024-08-03",
+    "name": "Event Câu Cá (950M, PU 2k7 PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-19",
+    "end_date": "2024-07-31",
+    "name": "Quà Hạ Vũ (1.73B, 2k7 PU)",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-25",
+    "end_date": "2024-08-07",
+    "name": "Rương Trân Bảo Ngày Hạ (1.8B, 4k2 PU)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-27",
+    "end_date": "2025-02-10",
+    "name": "File giải đấu Việt Trung",
+    "track": 22,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-07-29",
+    "end_date": "2024-08-13",
+    "name": "Thiên Y Các (400M, 1k1PU)",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-01",
+    "end_date": "2024-08-17",
+    "name": "Nạp Hoàn Trả",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-04",
+    "end_date": "2024-08-13",
+    "name": "TNTB (0.98B, 1k4 PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-08",
+    "end_date": "2024-08-22",
+    "name": "Thất Tịch (Tầm Duyên) (2.3B, 1k1 PU) (90tr NB, 21.5K role)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-08",
+    "end_date": "2024-09-09",
+    "name": "Thất Tịch-Vì Yêu",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-08",
+    "end_date": "2024-09-23",
+    "name": "Thất Tịch-Ưu Đãi Giới Hạn",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-14",
+    "end_date": "2024-09-02",
+    "name": "Ưu Đãi Thất Tịch (1.3B, 5.1K PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-14",
+    "end_date": "2024-08-26",
+    "name": "Thần Tài Phát Lộc",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-18",
+    "end_date": "2024-09-05",
+    "name": "Quà Thất Tịch (2.5B, 3.1K PU)",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-23",
+    "end_date": "2024-09-05",
+    "name": "Vòng Quay Đại Lễ (2.8B,  3.4K PU)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-27",
+    "end_date": "2024-09-05",
+    "name": "Vòng Quay Webshop",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-29",
+    "end_date": "2024-09-10",
+    "name": "Giang Sơn Như Họa (1.1B, 4k PU)",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-29",
+    "end_date": "2024-09-10",
+    "name": "Thần Thạch Huyền Bí (1.9B, 11k PU)",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-29",
+    "end_date": "2024-09-10",
+    "name": "Giảm giá nhận lại",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-29",
+    "end_date": "2024-09-10",
+    "name": "Quốc Khánh Năng Động",
+    "track": 10,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-08-29",
+    "end_date": "2024-10-15",
+    "name": "Ưu đãi cuối tuần",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-03",
+    "end_date": "2024-09-19",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-06",
+    "end_date": "2024-09-25",
+    "name": "TNTB (1.2B, 1.3K PU)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-06",
+    "end_date": "2024-09-15",
+    "name": "Ghi Danh và Thông Báo Giải Đấu Nhất Kiếm Kinh Thiên",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-06",
+    "end_date": "2024-09-16",
+    "name": "Nhất Kiếm Chiêu Anh (700tr, 2.4k PU)",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-10",
+    "end_date": "2024-09-23",
+    "name": "Vòng Sơ Tuyển",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-11",
+    "end_date": "2024-10-15",
+    "name": "Quà Tặng Thân Tình (1.3B, 3.2K PU)",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-11",
+    "end_date": "2024-10-01",
+    "name": "Tiệc Đoàn Viên",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-11",
+    "end_date": "2024-10-02",
+    "name": "Hộp Quà Trung Thu (2.5B, 2.7K PU)",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-11",
+    "end_date": "2024-10-20",
+    "name": "Thỏ Ngọc Ủ Rượu",
+    "track": 10,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-16",
+    "end_date": "2024-10-05",
+    "name": "Rương Nhất Kiếm Quang Vinh (1.7B, 5.2K PU)",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-17",
+    "end_date": "2024-09-22",
+    "name": "Vòng Loại",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-20",
+    "end_date": "2024-10-10",
+    "name": "Quà Thu Nguyệt (2.1B, 2.7K PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-23",
+    "end_date": "2024-10-15",
+    "name": "Dự Đoán",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-24",
+    "end_date": "2024-09-24",
+    "name": "Top 32",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-24",
+    "end_date": "2024-09-28",
+    "name": "Top 16",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-25",
+    "end_date": "2024-09-25",
+    "name": "Top 8",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-26",
+    "end_date": "2024-10-15",
+    "name": "Tầm Duyên (2.5B, 2.6K PU) (91tr NB, 21.3K role)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-26",
+    "end_date": "2024-09-28",
+    "name": "Tứ Kết",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-29",
+    "end_date": "2024-10-15",
+    "name": "Bán Kết",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-09-29",
+    "end_date": "2024-10-15",
+    "name": "Chung Kết",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-02",
+    "end_date": "2024-10-24",
+    "name": "Nạp Hoàn Trả",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-03",
+    "end_date": "2024-10-29",
+    "name": "Bang Hội Kỳ Tài",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-06",
+    "end_date": "2024-10-15",
+    "name": "TNTB (1.5B, 1.4K PU)",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-11",
+    "end_date": "2024-11-02",
+    "name": "Thần Thạch Bí Ẩn (2.6B, 4.3K PU) (68tr NB, 17K role)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2024-10-31",
+    "name": "西毒现世-Bạch Đà Hiện Thế (1.6B, 2k PU)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2024-11-07",
+    "name": "奇珍阁特惠-Ưu Đãi KTC (1.7B, 5k PU) (218tr NB)",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2024-11-12",
+    "name": "再闯江湖-Tái Xuất Giang Hồ",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2024-11-12",
+    "name": "首充双倍-Reset x2 nạp đầu",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2024-11-12",
+    "name": "资料片礼物-Quà Mừng PBM",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2024-11-12",
+    "name": "烟花庆典-Pháo Hoa Mừng Lễ",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2024-10-29",
+    "name": "Phái Bạch Đà",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2025-02-10",
+    "name": "Kỹ Năng Thú Cưỡi",
+    "track": 12,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2025-02-10",
+    "name": "Lâu Lan Mê Tung",
+    "track": 13,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2025-02-10",
+    "name": "Song Vực Tranh Phong",
+    "track": 14,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2025-02-10",
+    "name": "Xếp Hạng Võ Hàm",
+    "track": 15,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-16",
+    "end_date": "2025-02-10",
+    "name": "Cân bằng hệ phái",
+    "track": 16,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-21",
+    "end_date": "2024-11-12",
+    "name": "Thiên Y Các",
+    "track": 10,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-25",
+    "end_date": "2024-11-20",
+    "name": "Quà Sơ Đông (2B, 2.7k PU)",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-30",
+    "end_date": "2024-11-12",
+    "name": "Promotion Vòng Quay Săn Quà Bí Ngô (2.8B, 3.2k PU)",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-10-30",
+    "end_date": "2025-02-10",
+    "name": "Bổ sung nguồn ra free đột phá kỹ năng từ trục lv169",
+    "track": 11,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-01",
+    "end_date": "2024-11-24",
+    "name": "Nạp Hoàn Trả",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-03",
+    "end_date": "2024-11-10",
+    "name": "TNTB (1.3B, 1.3K PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-08",
+    "end_date": "2024-12-01",
+    "name": "Rương Tường Vân Đại Cát (2.35B, 5.1k PU)",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-11",
+    "end_date": "2024-11-18",
+    "name": "Ưu Đãi 11-11",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-13",
+    "end_date": "2024-11-28",
+    "name": "Bức Họa Sư Đồ",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-13",
+    "end_date": "2024-12-04",
+    "name": "Tri Ân Sư Đồ (1.6B, 4.2K PU)",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-13",
+    "end_date": "2024-12-17",
+    "name": "Quà Sư Đồ (2B, 4K PU)",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-13",
+    "end_date": "2024-12-17",
+    "name": "Đại Chiến Bãi Biển",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-13",
+    "end_date": "2025-02-10",
+    "name": "Update phúc lợi mỗi ngày (thẻ tuần/tháng, online, điểm danh, rương HK)",
+    "track": 9,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-13",
+    "end_date": "2025-02-10",
+    "name": "Tăng exp cơ bản từ pb/hđ",
+    "track": 10,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-19",
+    "end_date": "2024-12-03",
+    "name": "Quà Tôn Sư (1.7B, 2.4K PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-21",
+    "end_date": "2024-12-17",
+    "name": "Bằng Hữu Hiệp Lực (Promotion mời bạn)",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-25",
+    "end_date": "2024-12-11",
+    "name": "Tầm Duyên (2.56B, 2.6K PU)",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-11-29",
+    "end_date": "2024-12-08",
+    "name": "Black Friday (743M, 2.8K PU)",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-02",
+    "end_date": "2024-12-31",
+    "name": "Nạp Hoàn Trả",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-04",
+    "end_date": "2024-12-11",
+    "name": "sơ tuyển (1.7B, 3.6K PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-05",
+    "end_date": "2024-12-17",
+    "name": "TNTB (1.2B. 1.3K PU)",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-09",
+    "end_date": "2024-12-26",
+    "name": "Thần Thạch Bí Ẩn (2.3B, 3.9K PU)",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-12",
+    "end_date": "2024-12-13",
+    "name": "Đấu thử",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-12",
+    "end_date": "2024-12-21",
+    "name": "Ưu Đãi 12-12",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-14",
+    "end_date": "2024-12-15",
+    "name": "Top32",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-16",
+    "end_date": "2024-12-17",
+    "name": "Top16",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-18",
+    "end_date": "2024-12-19",
+    "name": "Top8",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-18",
+    "end_date": "2025-02-10",
+    "name": "Dạ Lan Quan",
+    "track": 5,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-18",
+    "end_date": "2025-02-10",
+    "name": "Tuyết Ngày Đông",
+    "track": 6,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-18",
+    "end_date": "2025-02-10",
+    "name": "Trang Trí Giáng Sinh (1.8B, 4.8K PU)",
+    "track": 7,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-18",
+    "end_date": "2025-02-10",
+    "name": "Hộp Quà Giáng Sinh (1.8B, 3.5K PU)",
+    "track": 8,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-20",
+    "end_date": "2024-12-21",
+    "name": "Tứ Kết",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-22",
+    "end_date": "2024-12-22",
+    "name": "Bán Kết",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-22",
+    "end_date": "2025-01-02",
+    "name": "Chung Kết",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-23",
+    "end_date": "2025-01-05",
+    "name": "Quà Tân Niên (2B, 3.6K PU)",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2024-12-27",
+    "end_date": "2025-01-15",
+    "name": "Rương Ất Tỵ Phú Quý (1.6B, 4.2K PU)",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2025-01-01",
+    "end_date": "2025-01-09",
+    "name": "Ưu Đãi 01-01",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2025-01-01",
+    "end_date": "2025-01-08",
+    "name": "Ưu Đãi 01-01 (624M, 2.5K PU)",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-01-03",
+    "end_date": "2025-02-10",
+    "name": "Nạp Hoàn Trả",
+    "track": 2,
+    "year": 2024
+  },
+  {
+    "start_date": "2025-01-06",
+    "end_date": "2025-01-20",
+    "name": "TNTB",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2025-01-09",
+    "end_date": "2025-01-23",
+    "name": "Khởi Niên Tầm Duyên (2.8B, 2.7K PU)",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-01-10",
+    "end_date": "2025-02-10",
+    "name": "Khởi Niên Tầm Duyên",
+    "track": 3,
+    "year": 2024
+  },
+  {
+    "start_date": "2025-01-16",
+    "end_date": "2025-02-02",
+    "name": "Quà Khai Xuân (2.2B, 3.6K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-01-16",
+    "end_date": "2025-02-10",
+    "name": "Quà Khai Xuân",
+    "track": 4,
+    "year": 2024
+  },
+  {
+    "start_date": "2025-01-21",
+    "end_date": "2025-02-10",
+    "name": "Promotion Tết",
+    "track": 1,
+    "year": 2024
+  },
+  {
+    "start_date": "2025-01-21",
+    "end_date": "2025-02-05",
+    "name": "Promotion Tết (4.7B, 4.2K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-01-23",
+    "end_date": "2025-03-02",
+    "name": "Promotion Webshop",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-01-24",
+    "end_date": "2025-03-05",
+    "name": "Chuỗi event Tết Nguyên Đán",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-03",
+    "end_date": "2025-02-19",
+    "name": "Nạp Hoàn Trả",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-06",
+    "end_date": "2025-02-13",
+    "name": "TNTB (1.5B, 1.5K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-12",
+    "end_date": "2025-03-11",
+    "name": "Tết Nguyên Tiêu (1.5B, 3.4K PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-12",
+    "end_date": "2025-03-11",
+    "name": "Giải Đấu Siêu Sao Đại Chiến",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-12",
+    "end_date": "2025-03-11",
+    "name": "Tuyển Chọn (Đua Top 50 TP LSV)",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-14",
+    "end_date": "2025-02-25",
+    "name": "Valentine (2B, 4K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-20",
+    "end_date": "2025-03-23",
+    "name": "Quà Du Xuân (2.1B, 3.2K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-20",
+    "end_date": "2025-03-21",
+    "name": "Đấu Loại",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-21",
+    "end_date": "2025-03-11",
+    "name": "Dự Đoán",
+    "track": 9,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-22",
+    "end_date": "2025-03-11",
+    "name": "Chung Kết",
+    "track": 10,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-02-26",
+    "end_date": "2025-04-01",
+    "name": "Thần Thạch Bí Ẩn (2.2B, 4K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-03",
+    "end_date": "2025-03-30",
+    "name": "Nạp Hoàn Trả",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-06",
+    "end_date": "2025-03-18",
+    "name": "TNTB (1.3B, 1.3K PU)",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-12",
+    "end_date": "2025-04-24",
+    "name": "Đào Hoa (ghép) (2.1B, 6K PU) + làm bánh đua top (274M + 3K PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-12",
+    "end_date": "2025-05-01",
+    "name": "Boss Đào Hoa",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-12",
+    "end_date": "2025-04-15",
+    "name": "Giảm Giá KTC",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-12",
+    "end_date": "2025-04-15",
+    "name": "Tái Xuất Giang Hồ (kết hợp ưu hóa mời bạn)",
+    "track": 9,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-12",
+    "end_date": "2025-04-15",
+    "name": "Reset X2 NB, Quà BU",
+    "track": 10,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-12",
+    "end_date": "2025-04-15",
+    "name": "Pháo Hoa Mừng Lễ",
+    "track": 11,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-12",
+    "end_date": "2025-03-18",
+    "name": "Đào Hoa",
+    "track": 22,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-12",
+    "end_date": "2025-07-08",
+    "name": "Thần Binh",
+    "track": 23,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-12",
+    "end_date": "2025-07-08",
+    "name": "Loạn Chiến Môn Phái",
+    "track": 23,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-19",
+    "end_date": "2025-04-03",
+    "name": "Quà Sinh Nhật (2.1B, 3.5K PU)",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-19",
+    "end_date": "2025-07-08",
+    "name": "Level Up softlaunch",
+    "track": 22,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-22",
+    "end_date": "2025-04-15",
+    "name": "Bang Hội Khiêu Chiến -> đánh Bánh Kem",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-24",
+    "end_date": "2025-04-07",
+    "name": "Promotion Sinh Nhật (3.8B, 3.2K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-27",
+    "end_date": "2026-01-08",
+    "name": "Mở S300 - Trường Sinh Kiếm (Sinh Nhật 2T)",
+    "track": 19,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-03-31",
+    "end_date": "2025-04-20",
+    "name": "Tầm Duyên Hoa Vũ (2.5B, 2.3K PU)",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-02",
+    "end_date": "2025-04-28",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-04",
+    "end_date": "2025-05-05",
+    "name": "Giỗ Tổ Hùng Vương: Ghép (1.8 B, 5.1K PU), Quà (2B, 3.1K PU)",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-08",
+    "end_date": "2025-04-13",
+    "name": "TNTB (1.2B, 1.2K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-14",
+    "end_date": "2025-05-01",
+    "name": "Rương Thiên Giáng Hồng Phúc (2B, 4.3K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-16",
+    "end_date": "2025-05-04",
+    "name": "Phó bản Thiên Quỳnh Cung (mới) (tàng bảo đồ)",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-16",
+    "end_date": "2025-06-07",
+    "name": "Ưu hóa cải thiện gameplay Loạn đấu môn phái",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-16",
+    "end_date": "2025-06-10",
+    "name": "Ưu hóa lĩnh ngộ chung cho hê thống thức tỉnh đồng hành",
+    "track": 9,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-16",
+    "end_date": "2025-08-05",
+    "name": "Ưu hóa Rương Thần Binh nhận từ Lò Thần có thể giao dịch/bày bán",
+    "track": 10,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-16",
+    "end_date": "2025-11-04",
+    "name": "Mở rộng ưu đãi chỉ số cho người đến sau mở rộng từ KT9 trở đi",
+    "track": 11,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-21",
+    "end_date": "2025-05-12",
+    "name": "Quà Mừng Lễ",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-25",
+    "end_date": "2025-05-14",
+    "name": "Event Lao Động (Ghép 1.3B, 3.4K PU), (Thần Thạch 1.6B, 3.1K PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-04-29",
+    "end_date": "2025-05-18",
+    "name": "Giải đấu Vô Song Hào Kiệt",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-02",
+    "end_date": "2025-05-28",
+    "name": "Báo Danh",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-02",
+    "end_date": "2025-05-14",
+    "name": "Nạp Hoàn Trả",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-05",
+    "end_date": "2025-05-12",
+    "name": "TNTB (1.3B, 1.3K PU)",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-06",
+    "end_date": "2025-05-12",
+    "name": "Sơ Tuyển",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-13",
+    "end_date": "2025-05-22",
+    "name": "Đấu Loại",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-13",
+    "end_date": "2025-05-22",
+    "name": "Dự Đoán",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-13",
+    "end_date": "2025-06-04",
+    "name": "Tầm Duyên Mùa Hè (2.5B, 2.3K PU)",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-15",
+    "end_date": "2025-05-22",
+    "name": "Top 8",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-15",
+    "end_date": "2025-05-15",
+    "name": "Top 4",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-16",
+    "end_date": "2025-05-16",
+    "name": "Bán Kết",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-17",
+    "end_date": "2025-05-22",
+    "name": "Chung Kết",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-19",
+    "end_date": "2025-06-01",
+    "name": "Quà Vào Hạ (1.7B, 2.8K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-23",
+    "end_date": "2025-06-04",
+    "name": "Số Tay Tuổi Thơ",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-23",
+    "end_date": "2025-06-04",
+    "name": "Công Viên Giải Trí (1.6B, 3.6k PU)",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-23",
+    "end_date": "2025-06-04",
+    "name": "Thổi Bong Bóng",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-23",
+    "end_date": "2025-06-04",
+    "name": "Đại Chiến Bãi Biển",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-05-29",
+    "end_date": "2025-06-12",
+    "name": "Promotion Kho Báu Mùa Hè (1.6B, 1.9K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-02",
+    "end_date": "2025-06-18",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-05",
+    "end_date": "2025-06-22",
+    "name": "Đua Thuyền Rồng",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-05",
+    "end_date": "2025-06-25",
+    "name": "Quà Đoan Ngọ (1.7B, 3.1K PU)",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-05",
+    "end_date": "2025-07-08",
+    "name": "Búp Bê Hoài Cổ",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-05",
+    "end_date": "2025-07-02",
+    "name": "Kẻ Trộm Thanh Xuân",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-05",
+    "end_date": "2025-06-30",
+    "name": "Đoan Ngọ Gói Bánh (1.4B, 2.8K PU)",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-08",
+    "end_date": "2025-08-13",
+    "name": "TNTB (1.2B, 1.2K PU)",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-11",
+    "end_date": "2025-06-24",
+    "name": "Kỹ Năng Thú B5",
+    "track": 9,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-13",
+    "end_date": "2025-07-08",
+    "name": "Thần Thạch Bí Ẩn (1.6B, 2.9K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-19",
+    "end_date": "2025-07-08",
+    "name": "Quà Mùa Hè (1.8B, 3K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-23",
+    "end_date": "2025-07-08",
+    "name": "Thiên Y Các",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-25",
+    "end_date": "2025-08-26",
+    "name": "Thần Binh 10 Sao",
+    "track": 9,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-06-26",
+    "end_date": "2025-07-08",
+    "name": "Nhật Hạ Tầm Duyên (2.3B, 2.1K PU)",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-01",
+    "end_date": "2025-07-16",
+    "name": "Nạp Hoàn Trả",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-03",
+    "end_date": "2025-07-08",
+    "name": "TNTB (1.2B, 1.2K PU)",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2025-07-31",
+    "name": "长歌诗韵-Trường Ca Thơ Vận (1.9B, 4.9K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2025-08-03",
+    "name": "奇珍阁特惠- Ưu đãi KTC",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2025-08-19",
+    "name": "再闯江湖 - Tái xuất giang hồ",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2025-08-19",
+    "name": "首充双倍-X2 nạp đầu",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2025-07-27",
+    "name": "资料片礼物-Quà BU",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2025-07-22",
+    "name": "烟花庆典-Pháo hoa mừng lễ",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2025-11-04",
+    "name": "Trường Ca",
+    "track": 22,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2025-11-04",
+    "name": "Trận Pháp Đồng Hành",
+    "track": 23,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2025-11-04",
+    "name": "Thủ Vệ Tương Dương",
+    "track": 23,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-09",
+    "end_date": "2026-01-08",
+    "name": "Lãnh Thổ Chiến LSV",
+    "track": 24,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-17",
+    "end_date": "2025-08-26",
+    "name": "Quà Trường Ca (1.8B, 2.7K PU)",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-23",
+    "end_date": "2025-08-26",
+    "name": "夏日钓鱼_Câu Cá Ngày Hè (1.3B, 2.5K PU)",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-07-28",
+    "end_date": "2025-08-26",
+    "name": "Rương Phú Quý Cát Tường (2.2B, 4.3K PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-01",
+    "end_date": "2025-08-19",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-04",
+    "end_date": "2025-08-07",
+    "name": "TNTB (1.2B, 1.2K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-06",
+    "end_date": "2025-11-04",
+    "name": "PB quân doanh mới: Hải Lăng Vương Mộ",
+    "track": 10,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-08",
+    "end_date": "2025-08-19",
+    "name": "Thần Thạch Bí Ẩn (2.3B, 3.7K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-14",
+    "end_date": "2025-08-26",
+    "name": "Quà Tình Duyên (1.8B, 2.8K PU)",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-20",
+    "end_date": "2025-09-02",
+    "name": "Thước Kiều Tầm Duyên (1.9B, 1.1K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-20",
+    "end_date": "2025-09-02",
+    "name": "Chân Tình Bảo Rương",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-20",
+    "end_date": "2025-09-03",
+    "name": "Đồng Tâm Tình Duyên",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-20",
+    "end_date": "2025-08-31",
+    "name": "Thiên Y Các",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-27",
+    "end_date": "2025-09-06",
+    "name": "Giang Sơn Như Họa (1.4B, 3.4K PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-27",
+    "end_date": "2025-09-16",
+    "name": "Ưu Đãi KTC",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-27",
+    "end_date": "2025-09-17",
+    "name": "Giảm giá nhận lại",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-27",
+    "end_date": "2025-10-14",
+    "name": "Năng Động Mừng Lễ",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-08-27",
+    "end_date": "2025-11-04",
+    "name": "Ưu đãi cuối tuần",
+    "track": 9,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-01",
+    "end_date": "2025-09-16",
+    "name": "Nạp Hoàn Trả",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-03",
+    "end_date": "2025-09-25",
+    "name": "Ghi Danh và Thông Báo Giải Đấu Nhất Kiếm Kinh Thiên",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-03",
+    "end_date": "2025-09-16",
+    "name": "Nhất Kiếm Chiêu Anh (1.5B, 4.2K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-04",
+    "end_date": "2025-09-10",
+    "name": "Vòng Sơ Tuyển",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-07",
+    "end_date": "2025-09-10",
+    "name": "TNTB",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-11",
+    "end_date": "2025-09-16",
+    "name": "Vòng Loại",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-11",
+    "end_date": "2025-09-21",
+    "name": "Rương Tường Vân Đại Cát (2.3B, 4.3K PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-25",
+    "name": "Dự Đoán",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-17",
+    "name": "Top 32",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-19",
+    "name": "Top 16",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-17",
+    "end_date": "2025-09-30",
+    "name": "Thần Thạch Bí Ẩn (1.8B, 3.3K PU)",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-18",
+    "end_date": "2025-09-18",
+    "name": "Top 8",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-18",
+    "end_date": "2025-10-09",
+    "name": "Bonus thưởng nạp 100K",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-19",
+    "end_date": "2025-09-19",
+    "name": "Tứ Kết",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-25",
+    "name": "Bán Kết",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-25",
+    "name": "Chung Kết",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-22",
+    "end_date": "2025-10-05",
+    "name": "Quà Trung Thu (1.7B, 2.7K PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-26",
+    "end_date": "2025-10-15",
+    "name": "Quà Tặng Thân Tình (1.1B, 2.7K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-26",
+    "end_date": "2025-10-20",
+    "name": "Tiệc Đoàn Viên",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-26",
+    "end_date": "2025-10-20",
+    "name": "Hộp Quà Trung Thu (1.8B, 3.1K PU)",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-09-26",
+    "end_date": "2025-10-15",
+    "name": "Thỏ Ngọc Ủ Rượu",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-01",
+    "end_date": "2025-11-18",
+    "name": "Nạp Hoàn Trả",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-06",
+    "end_date": "2025-10-15",
+    "name": "TNTB",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-10",
+    "end_date": "2025-11-11",
+    "name": "Ưu Đãi 10-10",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-15",
+    "end_date": "2025-10-21",
+    "name": "Gửi gói đầu",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-16",
+    "end_date": "2025-10-21",
+    "name": "Dự Báo",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-16",
+    "end_date": "2025-10-28",
+    "name": "Khuynh Quốc Khuynh Thành (1B, 2.8K PU)",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-16",
+    "end_date": "2025-11-18",
+    "name": "Hoa Hải Mịch Duyên (1.6B, 898 PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-21",
+    "end_date": "2025-10-30",
+    "name": "Báo Danh",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-21",
+    "end_date": "2025-11-02",
+    "name": "Vòng Loại (Máy Chủ)",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-22",
+    "end_date": "2025-11-04",
+    "name": "Quà Tuyệt Sắc (1.6B, 2.6K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-22",
+    "end_date": "2025-10-27",
+    "name": "Gửi gói  2",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-28",
+    "end_date": "2025-10-30",
+    "name": "submit iOS",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-29",
+    "end_date": "2025-11-18",
+    "name": "Rương Phúc Tinh Cao Chiếu (1.6B, 3.5K PU)",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-31",
+    "end_date": "2025-11-07",
+    "name": "Tổng Kết Vòng Loại",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-10-31",
+    "end_date": "2025-11-04",
+    "name": "submit storekit android",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-03",
+    "end_date": "2025-11-18",
+    "name": "Nạp Hoàn Trả",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2025-11-16",
+    "name": "Vòng Chung Kết (Liên Máy Chủ)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2025-12-16",
+    "name": "西夏一品_Nhất Phẩm Tây Hạ (1.7B, 4.7K PU)",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2025-12-16",
+    "name": "奇珍阁特惠- Ưu đãi KTC",
+    "track": 9,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2025-12-16",
+    "name": "福运周卡_Phúc Vận Thẻ Tuần",
+    "track": 10,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2026-01-08",
+    "name": "再闯江湖 - Tái xuất giang hồ",
+    "track": 11,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2026-01-08",
+    "name": "首充双倍-X2 nạp đầu",
+    "track": 12,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2026-01-08",
+    "name": "资料片礼物-Quà BU",
+    "track": 13,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2026-01-08",
+    "name": "烟花庆典-Pháo hoa mừng lễ",
+    "track": 14,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2026-01-08",
+    "name": "Nhất Phẩm Đường",
+    "track": 22,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2026-01-08",
+    "name": "Bộ Trấn Nhạc",
+    "track": 23,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-05",
+    "end_date": "2026-01-08",
+    "name": "Hiệp Khách Đảo",
+    "track": 23,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-08",
+    "end_date": "2025-12-02",
+    "name": "TNTB (1B, 1.1K PU)",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-12",
+    "end_date": "2025-11-23",
+    "name": "Thần Thạch Bí Ẩn (1.6B, 2.9K PU)",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-17",
+    "end_date": "2025-11-27",
+    "name": "Tổng Kết Vòng CK",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-19",
+    "end_date": "2025-12-07",
+    "name": "Bức Họa Sư Đồ",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-19",
+    "end_date": "2025-12-09",
+    "name": "Tri Ân Sư Đồ (1.1B, 3K PU)",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-19",
+    "end_date": "2025-12-04",
+    "name": "Quà Sư Đồ (1.5B, 2.7K PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-19",
+    "end_date": "2025-12-29",
+    "name": "Đại Chiến Bãi Biển",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-24",
+    "end_date": "2025-12-16",
+    "name": "Quà Nhất Phẩm (1.5B, K PU)",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-11-28",
+    "end_date": "2025-12-11",
+    "name": "Black Friday",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-03",
+    "end_date": "2026-01-08",
+    "name": "Nạp Hoàn Trả",
+    "track": 2,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-05",
+    "end_date": "2025-12-17",
+    "name": "Tầm Duyên Ngày Đông (1.8B, 1K PU)",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-08",
+    "end_date": "2026-01-08",
+    "name": "TNTB (1B, 1.12K PU)",
+    "track": 3,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-10",
+    "end_date": "2025-12-17",
+    "name": "Vòng Tuyển Chọn (0.66B, 2.9K PU)",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-12",
+    "end_date": "2025-12-23",
+    "name": "Rương Thiên Giáng Hồng Phúc (1.7B, 3.6K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-17",
+    "end_date": "2026-01-08",
+    "name": "Ném Tuyết",
+    "track": 7,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-17",
+    "end_date": "2026-01-08",
+    "name": "Băng Tuyết Đại Đạo",
+    "track": 8,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-17",
+    "end_date": "2026-01-08",
+    "name": "Trang Trí Cây Thông (1B, 1.9K PU)",
+    "track": 9,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-17",
+    "end_date": "2026-01-08",
+    "name": "Hộp Quà Giáng Sinh (1.3B, 2.6K PU)",
+    "track": 10,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-18",
+    "end_date": "2025-12-24",
+    "name": "Vòng Tranh Đoạt",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-18",
+    "end_date": "2025-12-19",
+    "name": "D1",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-20",
+    "end_date": "2025-12-20",
+    "name": "D2",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-21",
+    "end_date": "2025-12-22",
+    "name": "D3",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-23",
+    "end_date": "2025-12-24",
+    "name": "D4",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-24",
+    "end_date": "2026-01-08",
+    "name": "Quà Giáng Sinh (1.6B, 2.5K PU)",
+    "track": 1,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-25",
+    "end_date": "2026-01-08",
+    "name": "Vòng Chung Kết",
+    "track": 4,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-25",
+    "end_date": "2025-12-26",
+    "name": "T32",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-27",
+    "end_date": "2025-12-27",
+    "name": "T32",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-28",
+    "end_date": "2025-12-29",
+    "name": "T16",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-30",
+    "end_date": "2026-01-05",
+    "name": "T8",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2025-12-30",
+    "end_date": "2026-01-08",
+    "name": "Dự Đoán",
+    "track": 6,
+    "year": 2025
+  },
+  {
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-14",
+    "name": "Chuỗi Event Chào Mừng Năm Mới",
+    "track": 7,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-14",
+    "name": "Ưu Đãi 01-01 (0.5B, 2.3K PU)",
+    "track": 8,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-18",
+    "name": "Năm Mới Năng Động",
+    "track": 9,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-19",
+    "name": "Giảm Giá Nhận Lại",
+    "track": 10,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-01",
+    "end_date": "2026-02-10",
+    "name": "Năm Mới x2",
+    "track": 11,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-03",
+    "end_date": "2026-01-31",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-06",
+    "end_date": "2026-02-07",
+    "name": "TNTB (1B, 1.17K PU)",
+    "track": 2,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-06",
+    "end_date": "2026-01-07",
+    "name": "T4",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2026-01-08",
+    "end_date": "2026-01-08",
+    "name": "T2 - T1",
+    "track": 5,
+    "year": 2025
+  },
+  {
+    "start_date": "2026-01-09",
+    "end_date": "2026-02-21",
+    "name": "Thần Thạch Bí Ẩn (1.8B, 3.1K PU)",
+    "track": 6,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-15",
+    "end_date": "2026-02-04",
+    "name": "Chuỗi Event Vui Xuân Trẩy Hội",
+    "track": 7,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-15",
+    "end_date": "2026-02-10",
+    "name": "Vui Xuân Trẩy Hội (0.6B, 2.1K PU)",
+    "track": 8,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-19",
+    "end_date": "2026-02-05",
+    "name": "Dạ Lan Quan",
+    "track": 9,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-20",
+    "end_date": "2026-02-15",
+    "name": "Khởi Niên Tầm Duyên (1.6B, 1.4K PU)",
+    "track": 10,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-24",
+    "end_date": "2026-02-25",
+    "name": "Quà Khai Xuân (1.6B, 2.5K PU)",
+    "track": 3,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-01-29",
+    "end_date": "2026-03-09",
+    "name": "Rương Phúc Mãn Nhân Gian (1.1B, 3K PU)",
+    "track": 4,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-01",
+    "end_date": "2026-03-03",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-05",
+    "end_date": "2026-03-17",
+    "name": "Promotion Tết - Mã Đáo Vinh Hoa (3.3B, 2K PU)",
+    "track": 7,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-06",
+    "end_date": "2026-02-26",
+    "name": "Tài Vận Hanh Thông",
+    "track": 9,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-06",
+    "end_date": "2026-03-22",
+    "name": "Ưu Đãi Nhận Lại",
+    "track": 15,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-06",
+    "end_date": "2026-03-22",
+    "name": "Cuối Tuần x2",
+    "track": 16,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-08",
+    "end_date": "2026-03-09",
+    "name": "TNTB",
+    "track": 2,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-09",
+    "end_date": "2026-03-22",
+    "name": "Ưu Đãi Tân Niên",
+    "track": 14,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-10",
+    "end_date": "2026-02-15",
+    "name": "Gửi gói đầu",
+    "track": 20,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-26",
+    "name": "Chuỗi event Tết",
+    "track": 8,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-26",
+    "name": "Cùng Vui Đón Tết",
+    "track": 11,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-11",
+    "end_date": "2026-03-22",
+    "name": "Event Valentine",
+    "track": 17,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-11",
+    "end_date": "2026-03-26",
+    "name": "Ưu Đãi Ngoại Quan Tình Nhân",
+    "track": 18,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-11",
+    "end_date": "2026-12-31",
+    "name": "Quà Tình Nhân",
+    "track": 19,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-16",
+    "end_date": "2026-02-26",
+    "name": "Tiệc Tất Niên",
+    "track": 10,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-16",
+    "end_date": "2026-03-17",
+    "name": "Lì Xì Phúc Vận",
+    "track": 12,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-16",
+    "end_date": "2026-03-17",
+    "name": "Đếm Ngược Tân Xuân",
+    "track": 13,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-16",
+    "end_date": "2026-02-26",
+    "name": "Lộc Xuân Rộn Ràng",
+    "track": 20,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-22",
+    "end_date": "2026-03-31",
+    "name": "Thần Thạch Bí Ẩn (1.6B, 2.8K PU)",
+    "track": 6,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-26",
+    "end_date": "2026-03-24",
+    "name": "Quà Du Xuân  (1.4B, 2.2K PU)",
+    "track": 3,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-27",
+    "end_date": "2026-03-17",
+    "name": "Chuỗi Event Tết Nguyên Tiêu",
+    "track": 8,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-27",
+    "end_date": "2026-03-17",
+    "name": "Đố Đèn Hoa Đăng",
+    "track": 9,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-27",
+    "end_date": "2026-03-17",
+    "name": "Món Ngon Nguyên Tiêu (1.2B, 3K PU)",
+    "track": 10,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-27",
+    "end_date": "2026-03-17",
+    "name": "Tiệc Nguyên Tiêu",
+    "track": 11,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-02-27",
+    "end_date": "2026-03-04",
+    "name": "Gửi gói  2",
+    "track": 20,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-04",
+    "end_date": "2026-04-03",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-10",
+    "name": "submit iOS",
+    "track": 20,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-06",
+    "end_date": "2026-04-09",
+    "name": "Phượng Các Tầm Duyên (1.6B, 1.5K PU)",
+    "track": 5,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-10",
+    "end_date": "2026-04-06",
+    "name": "TNTB",
+    "track": 2,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-10",
+    "end_date": "2026-12-31",
+    "name": "Rương Phúc Lộc Tề Thiên (1.7B, 2.6K PU)",
+    "track": 4,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17",
+    "name": "submit storekit android",
+    "track": 20,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-18",
+    "end_date": "2026-12-31",
+    "name": "Chuỗi Event PBM: Nghịch Thế Võ Hồn (B, K PU)",
+    "track": 7,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-18",
+    "end_date": "2026-04-15",
+    "name": "Nghịch Thế Võ Hồn (1.1B, 2.6K PU)",
+    "track": 8,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-18",
+    "end_date": "2026-04-15",
+    "name": "奇珍阁特惠- Ưu đãi KTC",
+    "track": 9,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-18",
+    "end_date": "2026-04-15",
+    "name": "再闯江湖 - Tái xuất giang hồ",
+    "track": 10,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-18",
+    "end_date": "2026-04-20",
+    "name": "首充双倍-X2 nạp đầu",
+    "track": 11,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-18",
+    "end_date": "2026-04-20",
+    "name": "资料片礼物-Quà BU",
+    "track": 12,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-18",
+    "end_date": "2026-04-26",
+    "name": "烟花庆典-Pháo hoa mừng lễ",
+    "track": 13,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-18",
+    "end_date": "2026-12-31",
+    "name": "BU",
+    "track": 20,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-23",
+    "end_date": "2026-05-01",
+    "name": "Chuỗi Event Sinh Nhật 3 Tuổi: Minh Đăng Yến Hội",
+    "track": 14,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-23",
+    "end_date": "2026-04-26",
+    "name": "Promotion Bánh Kem Sinh Nhật",
+    "track": 15,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-23",
+    "end_date": "2026-04-26",
+    "name": "Promotion Mừng Tiệc Sinh Thần",
+    "track": 16,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-23",
+    "end_date": "2026-04-26",
+    "name": "Promotion Bằng Hữu Nghĩa Tình",
+    "track": 17,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-25",
+    "end_date": "2026-04-23",
+    "name": "Quà Sinh Nhật  (B, K PU)",
+    "track": 3,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-03-27",
+    "end_date": "2026-12-31",
+    "name": "Event Sinh Nhật",
+    "track": 18,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-01",
+    "end_date": "2026-05-12",
+    "name": "Thần Thạch Bí Ẩn (B, K PU)",
+    "track": 6,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-04",
+    "end_date": "2026-05-03",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-07",
+    "end_date": "2026-05-09",
+    "name": "TNTB",
+    "track": 2,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-10",
+    "end_date": "2026-05-26",
+    "name": "Tầm Duyên (B, K PU)",
+    "track": 5,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-16",
+    "end_date": "2026-05-13",
+    "name": "GIỗ Tổ",
+    "track": 8,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-16",
+    "end_date": "2026-05-13",
+    "name": "Mâm Cỗ Tiến Vua",
+    "track": 9,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-16",
+    "end_date": "2026-05-18",
+    "name": "Dâng Hương Bái Tổ",
+    "track": 10,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-21",
+    "end_date": "2026-05-25",
+    "name": "Hộp Quà Mừng Lễ",
+    "track": 11,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-21",
+    "end_date": "2026-04-26",
+    "name": "Bảo Vệ Hồn Tổ Tiên",
+    "track": 12,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-24",
+    "end_date": "2026-05-21",
+    "name": "Quà Mừng Lễ  (B, K PU)",
+    "track": 3,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-17",
+    "name": "Lao Động",
+    "track": 12,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-27",
+    "name": "Làm Vườn",
+    "track": 13,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-27",
+    "end_date": "2026-12-31",
+    "name": "Điểm Danh",
+    "track": 15,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-27",
+    "end_date": "2026-12-31",
+    "name": "X2 Cuối tuần",
+    "track": 16,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-04-27",
+    "end_date": "2026-12-31",
+    "name": "Giảm giá nhận lại",
+    "track": 17,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-02",
+    "end_date": "2026-12-31",
+    "name": "Rương",
+    "track": 14,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-04",
+    "end_date": "2026-12-31",
+    "name": "Nạp Hoàn Trả",
+    "track": 1,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-10",
+    "end_date": "2026-12-31",
+    "name": "TNTB",
+    "track": 2,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-13",
+    "end_date": "2026-12-31",
+    "name": "Thần Thạch Bí Ẩn (B, K PU)",
+    "track": 6,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-14",
+    "end_date": "2026-06-11",
+    "name": "Vô Song Hào Kiệt",
+    "track": 8,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-14",
+    "end_date": "2026-07-07",
+    "name": "Báo Danh",
+    "track": 9,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-27",
+    "name": "奇珍阁特惠- Ưu đãi KTC",
+    "track": 12,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-19",
+    "end_date": "2026-05-25",
+    "name": "Sơ Tuyển",
+    "track": 10,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-22",
+    "end_date": "2026-12-31",
+    "name": "Quà  (B, K PU)",
+    "track": 3,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-26",
+    "end_date": "2026-12-31",
+    "name": "Đấu Loại",
+    "track": 10,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-26",
+    "end_date": "2026-12-31",
+    "name": "Dự Đoán",
+    "track": 11,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-27",
+    "end_date": "2026-12-31",
+    "name": "Tầm Duyên (B, K PU)",
+    "track": 5,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-28",
+    "end_date": "2026-12-31",
+    "name": "Top 8",
+    "track": 12,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-05-28",
+    "end_date": "2026-05-31",
+    "name": "Top 4",
+    "track": 13,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-02",
+    "name": "Bán Kết",
+    "track": 13,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-06-03",
+    "end_date": "2026-12-31",
+    "name": "Chung Kết",
+    "track": 13,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-06-12",
+    "end_date": "2026-07-14",
+    "name": "Sưu Tầm Quốc Kỳ",
+    "track": 8,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-07-08",
+    "end_date": "2026-12-31",
+    "name": "Trổ Tài Dự Đoán",
+    "track": 9,
+    "year": 2026
+  },
+  {
+    "start_date": "2026-07-15",
+    "end_date": "2026-12-31",
+    "name": "Săn Bóng WC",
+    "track": 8,
+    "year": 2026
+  }
+]

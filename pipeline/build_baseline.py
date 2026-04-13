@@ -48,17 +48,28 @@ COHORTS    = list(SETTINGS["cohorts"].keys())
 # ── Event helpers ──────────────────────────────────────────────────────────────
 def load_events() -> list[dict]:
     if EVENTS_JSON.exists():
-        with open(EVENTS_JSON) as f:
+        with open(EVENTS_JSON, encoding="utf-8") as f:
             return json.load(f)
     return []
 
-def build_event_set(events: list[dict], pad_before: int, pad_after: int) -> set[str]:
-    """Return set of date strings that are within event windows (for exclusion)."""
+def build_event_set(events: list[dict], pad_before: int, pad_after: int,
+                    max_track: int = 5) -> set[str]:
+    """Return set of date strings that are within major event windows (for exclusion).
+    Only events with track <= max_track are considered high-impact enough to exclude
+    from ETS training. Lower tracks (1-5) are the main content/promotion events.
+    Long-running background tracks (Technical, Data, MKT) are ignored.
+    """
     event_dates = set()
     for ev in events:
+        track = ev.get("track")
+        if track is not None and int(track) > max_track:
+            continue   # skip background/technical tracks
         start = date.fromisoformat(ev["start_date"])
         end   = date.fromisoformat(ev["end_date"])
-        # Pad before and after
+        # Cap event duration at 30 days to avoid single long-running events
+        # blanketing the entire training set
+        if (end - start).days > 30:
+            end = start + timedelta(days=30)
         padded_start = start - timedelta(days=pad_before)
         padded_end   = end   + timedelta(days=pad_after)
         d = padded_start
@@ -153,11 +164,9 @@ def main():
     df = pd.read_csv(METRICS_CSV, dtype=str)
 
     events = load_events()
-    exclude_dates = build_event_set(
-        events,
-        pad_before=EV_CFG["exclude_days_before_event"],
-        pad_after=EV_CFG["exclude_days_after_event"],
-    )
+    # KTO always has events running across all tracks — events are the normal state,
+    # not the exception. Train on the full dataset; event_flag is for display only.
+    exclude_dates: set[str] = set()
 
     cohorts_to_run = [args.cohort] if args.cohort else COHORTS
     forecast_output = {}
